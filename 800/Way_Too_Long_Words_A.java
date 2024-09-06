@@ -12,7 +12,6 @@ public class Way_Too_Long_Words_A{
 		for(int i = 0; i<words.length; i++){
 			words[i] = sc.next();
 		}
-
 		shortWords(words);
 	}
 
