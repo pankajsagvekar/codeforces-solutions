@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Watermelon_4A{
+public class Minimize_A_{
 	public static void main(String[] args){
 		Scanner sc = new Scanner(System.in);
 		int t = sc.nextInt();
