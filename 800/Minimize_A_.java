@@ -13,5 +13,6 @@ public class Minimize_A_{
 				System.out.println(b-a);
 			}
 		}
+		sc.close();
 	}
 }

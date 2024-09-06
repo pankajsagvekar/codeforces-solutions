@@ -1,5 +1,4 @@
 import java.util.Scanner;
-import java.util.Arrays;
 
 public class Way_Too_Long_Words_A{
 	public static void main(String[] args){
@@ -13,6 +12,8 @@ public class Way_Too_Long_Words_A{
 			words[i] = sc.next();
 		}
 		shortWords(words);
+
+		sc.close();
 	}
 
 	private static void shortWords(String[] words){
