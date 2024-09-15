@@ -10,5 +10,6 @@ public class Domino_Piling_A{
 
         int dominos = Math.floorDiv(mxn, 2);
         System.out.println(dominos);
+        sc.close();
     }
 }

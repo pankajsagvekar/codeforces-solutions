@@ -24,5 +24,6 @@ public class NextRound_A {
         }
         
         System.out.println(no_of_participants);
+        sc.close();
     }
 }
