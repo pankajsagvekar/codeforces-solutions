@@ -1,4 +1,3 @@
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class Beautiful_Matrix_A {
@@ -22,5 +21,6 @@ public class Beautiful_Matrix_A {
 
         int noOfMoves = Math.abs(column - 2) + Math.abs(row - 2); // 2 = middle position
         System.out.println(noOfMoves);
+        sc.close();
     }
 }

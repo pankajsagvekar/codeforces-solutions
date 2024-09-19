@@ -19,5 +19,6 @@ public class Boy_Or_Girl {
         else{
             System.out.println("IGNORE HIM!");
         }
+        sc.close();
     }
 }
